@@ -1,7 +1,9 @@
 .header {
     background-color: black;
-    margin: 0 auto;
-    padding: 10;
+    Border-Bottom: 1px Solid #Ccc;
+    Padding: 0.5em 1em;
+    Display: Flex;
+    Justify-Content: Space-Between;
 }
 h1 {
     color: rgb(255, 98, 0);
