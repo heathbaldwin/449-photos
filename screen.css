@@ -1,5 +1,7 @@
 .header {
     background-color: black;
+    margin: 0 auto;
+    padding: 10;
 }
 h1 {
     color: rgb(255, 98, 0);
